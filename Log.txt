@@ -1,0 +1,7 @@
+/auth_reques•login•passwor
+/auth_accept•nicname
+/auth_error
+/broadcast•time•sorce•message
+/client_bcast•msg
+/msg_format_error•message
+/user_list•user1•user2....•userN
